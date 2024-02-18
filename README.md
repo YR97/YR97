@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YR97
-- 👀 I’m interested in growing myself
+- 👀 I’m interested in self development 
 - 🌱 I’m currently learning Generative AI
 - 💞️ I’m looking to collaborate on Github
 - 📫 Reach me @YR97
